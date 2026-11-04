@@ -1,0 +1,5 @@
+kategorie;status;marke;modell;leistung_w;schlagenergie_j_hersteller;schlagzahl_min;aufnahme;gewicht_kg;masse_mm;preis_eur;recherche_datum;datenstatus;quelle_notiz
+Bohr-/Meißelhammer;vorhanden;HiKOKI;DH40MCWSZ;1100;7,1;;SDS-Max;7,1;;;;laut Übergabe;Betonbohren bis 40 mm
+Abbruchhammer;geprüft/geplant;PARKSIDE;PAH 1300 C3;1300;15;;SDS-Max;5,8;;;;unsicher;Angaben und Preis aus Übergabe, Zeitpunkt offen
+Abbruchhammer;geprüft/geplant;Scheppach;AB1500X;1300;20;4100;SDS-Max;;;90-105;;unsicher;Gewicht widersprüchlich, Joule-Herstellerwert nicht direkt vergleichbar
+Schwerer Abbruchhammer;geprüft/geplant;VEVOR;JH-65?;2200;66;1400;28,6-mm-Sechskant;;;134,90;;unsicher;Modellvariante und Gewicht offen, Messmethode der Schlagenergie nicht belegt
