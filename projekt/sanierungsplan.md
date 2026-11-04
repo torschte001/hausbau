@@ -14,7 +14,11 @@ Komplettdusche um 90 × 90 cm ist eine Option; genaue Maße und System offen. Wa
 
 ## Abbruch
 
-Vorhandener HiKOKI für kontrollierte Arbeiten; schwerer Abbruchhammer als mögliche Ergänzung für Fundamente und Beton. Vor Arbeiten an der Garage ist die Tragfunktion von Beton und Stahlträgern zu klären. Abbruchentscheidung und Kauf/Miete sind offen.
+Der HiKOKI DH40MCWSZ bleibt für Bohren und kontrolliertes Meißeln vorhanden, reichte aber nicht aus, um das Betonfundament im Hof zu entfernen. Ein Freund lieh dafür kostenlos einen schweren, bodenorientierten Abbruchhammer; das Modell ist nicht mehr feststellbar. Für Estrich, handgegossenen Beton, Mauerwerk und den geplanten Garagenabbruch wird ein eigenes Gerät bevorzugt, solange es im niedrigen dreistelligen Eurobereich bleibt. WALTER 1700 W ist derzeit Favorit, Gewicht aber vor Kauf klären; Pattfield PA 1700W, Scheppach AHT1700 und VEVOR sind Alternativen. Sehr festen Gartenboden damit zu lockern ist eine mögliche, ungeprüfte Zusatznutzung. Vor Arbeiten an der Garage ist die Tragfunktion von Beton und Stahlträgern zu klären.
+
+## Hof und Garten – Fotostand
+
+Die von Torsten geteilten Fotos zeigen die Garage im Hof sowie die Grünfläche mit Gartenhaus. Auf der Grünfläche wurden bereits viele Bäume und Sträucher entfernt; im Bild sind noch einzelne Gehölze, Stümpfe und Wurzel-/Pflanzenreste zu sehen. Die Fotos dokumentieren den Zustand, liefern aber keine verlässlichen Maße oder Aussagen zum Aufbau und Zustand der Garage. Aufnahmedatum nicht angegeben.
 
 ## Offene Arbeitspakete
 
